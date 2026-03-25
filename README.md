@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhigyan Agarwal  <br><br>🐍 Python Developer  <br>🧠 Exploring LLMs, AI Agents, and real-world AI systems  <br><br>- 🔭 Currently building: AI-powered systems using LangChain & LangGraph  <br>- 🌱 Learning: LLM workflows, backend with Python, system design basics  <br>- 🎯 Goal: Become an AI Engineer and land a 20+ LPA role  <br>- ⚡ I enjoy building intelligent systems, not just scripts
+Hi, I'm Abhigyan Agarwal  <br><br>🐍 Python Developer  <br>🧠 Exploring LLMs, AI Agents, and real-world AI systems  <br><br>- 🔭 Currently building: AI-powered systems using LangChain & LangGraph  <br>- 🌱 Learning: LLM workflows, backend with Python, system design basics  <br>- 🎯 Goal: Become an AI Engineer <br>- ⚡ I enjoy building intelligent systems, not just scripts
 
 
 ## 🌐 Socials:
